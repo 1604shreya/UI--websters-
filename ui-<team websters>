@@ -22,3 +22,106 @@
 <link rel="stylesheet" href="assets/css/footer.css">
 <link rel="stylesheet" href="assets/css/responsive.css">
 </head>
+<body>
+
+<div class="preloader v2">
+<div class="preloader__container">
+<img src="assets/img/icon/preloader2.png" alt="">
+</div>
+</div>
+
+<div class="black__bg">
+
+<div class="header__area header2 header__absolute" id="header">
+<div class="container">
+<div class="row">
+<div class="col-6 col-md-5 col-xl-3 align-self-center">
+<a href="index.html" class="logo"><img src="assets/img/logo/logo3.png" alt=""></a>
+</div>
+<div class="col-6 col-md-7 col-xl-6 text-center align-self-center">
+<div class="main__menu">
+<div class="stellarnav">
+<ul class="navclass" id="scroll">
+<li><a href="#home">Home</a>
+</li>
+<li><a href="#about">About</a></li>
+<li><a href="#contagion">Contagion</a></li>
+<li><a href="#symptoms">Symptoms</a></li>
+<li><a href="#blog">Blog</a>
+</li>
+<li><a href="#prevention">Prevention</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="d-none d-lg-block col-lg-3 col-xl-3 align-self-center text-right">
+<a href="#contact" class="cbtn emergency_btn2">
+<img class="btn__icon" src="assets/img/icon/alert__phone__white.svg" alt="">
+<img class="btn__hover__icon" src="assets/img/icon/phone__blue.png" alt="">
+Contact
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="welcome welcome2" id="home">
+<div class="container">
+<div class="row">
+<div class="col-md-7 col-lg-6">
+<div class="title title2 wow fadeInLeft">
+<p class="title__top title__top2"><img src="assets/img/icon/alert2.png" alt="">Covid-19 Alert</p>
+<h1>STAY HOME SAVE INDIA...</h1>
+<h4>Tough times never LAST; <br> So does CORONA VIRUS!  </h4>
+<div class="space-30"></div>
+<a href="#" class="cbtn btn2">Check Symptoms</a>
+</div>
+</div>
+</div>
+</div>
+<img src="assets/img/shape/shape__white1.png" alt="" class="shape shape1">
+<img src="assets/img/shape/shape__white2.png" alt="" class="shape shape2">
+<div class="welcome_shapes wow fadeInRight">
+<div class="welcome_shapes__wrap wlc__bg2">
+<img class="welcome__shape__bg2 " src="assets/img/shape/virus__group.png" alt="">
+<img class="welcome_shape welcome_shapes22" src="assets/img/shape/fusfus.svg" alt="">
+</div>
+</div>
+</div>
+
+
+<div class="counter__area counter2">
+<div class="container">
+<div class="row">
+<div class="col-12">
+<div class="counters">
+<div class="counters__wrap">
+<div class="row">
+<div class="col-md-6 col-lg-3 text-center">
+<div class="single__counter wow fadeInUp" data-wow-delay=".3s">
+<h2 class="counter">29</h2>
+<p>Affected States</p>
+</div>
+</div>
+<div class="col-md-6 col-lg-3 text-center">
+<div class="single__counter wow fadeInUp" data-wow-delay=".5s">
+<h2 class="counter">1,780,268</h2>
+<p>Total Cases</p>
+</div>
+</div>
+<div class="col-md-6 col-lg-3 text-center">
+<div class="single__counter ctype2 wow fadeInUp" data-wow-delay=".7s">
+<h2 class="counter">1,165,442</h2>
+<p>Total Recoveries</p>
+</div>
+</div>
+<div class="col-md-6 col-lg-3 text-center">
+<div class="single__counter no__border wow fadeInUp" data-wow-delay=".9s">
+<h2 class="counter">37,690</h2>
+<p>Total Deaths</p>
+</div>
+</div>
+<div class="col-12 text-center wow fadeInUp" data-wow-delay="1s">
+<div class="space-30"></div>
+<h6 class="emergency"> Last Updated: August 2nd Source: <a href="#">WHO</a></h6>
+</div>
+</div>

@@ -72,6 +72,272 @@ Contact
 <p class="title__top title__top2"><img src="assets/img/icon/alert2.png" alt="">Covid-19 Alert</p>
 <h1>STAY HOME SAVE INDIA...</h1>
 <h4>Tough times never LAST; <br> So does CORONA VIRUS!  </h4>
+<div class="about__area about2 section-padding" id="about">
+<div class="container">
+<div class="row">
+<div class="col-lg-6 align-self-center">
+<div class="about__img wow fadeInLeft">
+<img src="assets/img/about/about_left2.gif" alt="image" style="height: 500px; margin-top: -60px; width: 750px; margin-left: -40px;">
+</div>
+</div>
+<div class="col-lg-6 align-self-center">
+<div class="about__text wow fadeInRight">
+<div class="title title2">
+<p class="title__top title__top2">About Covid-19</p>
+<h2>What's COVID-19?</h2>
+<h4>Coronavirus disease 2019 (COVID-19) is defined as illness caused by a novel coronavirus now called severe acute respiratory syndrome coronavirus,<br>The disease causes respiratory illness (like the flu) with symptoms such as a cough, fever, and in more severe cases, difficulty breathing. <br> You can protect yourself by washing your hands frequently, avoiding touching your face, and avoiding close contact (1 meter or 3 feet) distances with who are unwell.</h4>
+<div class="space-30"></div>
+<a href="#symptoms" class="cbtn btn2"> Symptoms</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<img src="assets/img/shape/shape__white2.png" alt="" class="about__shape about__shape1">
+<img src="assets/img/shape/shape__white2.png" alt="" class="about__shape about__shape3">
+<img src="assets/img/shape/shape__white2.png" alt="" class="about__shape about__shape4">
+</div>
+
+
+<div class="symptoms__area symptoms2 theme__bg3 section-padding2" id="symptoms">
+<div class="container">
+<div class="row">
+<div class="col-lg-6">
+<div class="title title2 wow fadeInLeft">
+<p class="title__top title__top2">Covid-19 Symptoms</p>
+<h2>What are the symptoms?</h2>
+<h4>COVID-19 takes 2-14 days after exposure for its symptoms to develop. Symptoms may include:</h4>
+<div class="space-30"></div>
+<div class="row">
+<div class="col-md-4">
+<div class="points">
+<ul>
+<li><i class="fas fa-check"></i> Hard Cough</li>
+<li><i class="fas fa-check"></i>Head ache </li>
+<li><i class="fas fa-check"></i> Fever</li>
+</ul>
+</div>
+</div>
+<div class="col-md-5">
+<div class="points">
+<ul>
+<li><i class="fas fa-check"></i> Respiratory Distress</li>
+<li><i class="fas fa-check"></i> Shortness in Breath</li>
+<li><i class="fas fa-check"></i> Organ Failure</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="space-50"></div>
+<a href="#symptoms" class="cbtn btn2">Symptoms</a>
+</div>
+</div>
+</div>
+</div>
+<img src="assets/img/about/symptoms2.svg" alt="" class="symptom__bg wow fadeInRight">
+<img src="assets/img/shape/shape__white2.png" alt="" class="symptom__shape symptom_1">
+<img src="assets/img/shape/shape__white2.png" alt="" class="symptom__shape symptom_2">
+</div>
+
+
+<div class="map__area section-padding2">
+<div class="container">
+<div class="row">
+<div class="col-lg-8 text-center m-auto">
+<div class="title title2 wow fadeInDown">
+<p class="title__top title__top2">Covid-19 threat</p>
+<h2>THE RISE OF CORONA IN INDIA</h2>
+<h4>Due to the burst of cases Death rate has reached 37K+ in the country.</h4>
+</div>
+</div>
+</div>
+<div class="space-50"></div>
+<div class="row">
+<div class="col-12 text-center">
+<div class="mapimg wow zoomIn">
+<img src="assets/img/bg/map2.png" alt="">
+</div>
+<div class="space-50"></div>
+<h6 class="emergency wow fadeInUp">Last Updated on August 2nd, Source: <a href="#">WHO</a></h6>
+</div>
+</div>
+</div>
+<img src="assets/img/shape/shape__white2.png" alt="" class="contagion__img contagion__img1">
+<img src="assets/img/shape/shape__white2.png" alt="" class="contagion__img contagion__img2">
+<img src="assets/img/shape/shape__white2.png" alt="" class="contagion__img contagion__img3">
+</div>
+
+
+<div class="contagion contagion2 theme__bg3 section-padding" id="contagion">
+<div class="container">
+<div class="row">
+<div class="col-lg-6 align-self-center">
+<div class="row">
+<div class="col-md-6">
+<div class="single__contagion wow fadeInUp" data-wow-delay=".3s">
+<div class="contagion__icon">
+<img src="assets/img/contagion/contagion21.png" alt="">
+</div>
+<h3>Animal Contact</h3>
+<p>Respiratory conditions might detiriorate when in contact with animals.</p>
+</div>
+<div class="single__contagion wow fadeInUp" data-wow-delay=".5s">
+<div class="contagion__icon">
+<img src="assets/img/contagion/contagion22.png" alt="">
+</div>
+<h3>Personal Contact</h3>
+<p>Coming in contact might rise the infection in a healthy person also.</p>
+</div>
+</div>
+<div class="col-md-6">
+<div class="single__contagion mt-lg-5 wow fadeInUp" data-wow-delay=".7s">
+<div class="contagion__icon">
+<img src="assets/img/contagion/contagion23.png" alt="">
+</div>
+<h3>Air Transmission</h3>
+<p>Through respiratory droplets produced by when an infected person coughs or sneezes will transmit the disease.</p>
+</div>
+<div class="single__contagion wow fadeInUp" data-wow-delay=".9s">
+<div class="contagion__icon">
+<img src="assets/img/contagion/contagion24.png" alt="">
+</div>
+<h3>Contaminate Object </h3>
+<p>Touching the objects already proned with virus also attracts the disease.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-6 align-self-center">
+<div class="title white__title ml-lg-5 wow fadeInRight">
+<p class="title__top title__top2">Covid-19 Spread</p>
+<h2>How does it spread?</h2>
+<h4>According to health experts Novel Coronavirus spreads through:</h4>
+<div class="space-30"></div>
+<div class="points">
+<ul>
+<li><i class="fas fa-check"></i>Respiratory droplets produced when an infected person coughs or sneezes.</li>
+<li><i class="fas fa-check"></i>When social distancing (min. 6 feet) is not practised between two people.</li>
+</ul>
+</div>
+<div class="space-50"></div>
+<a href="#" class="cbtn btn2">Prevention Shield</a>
+</div>
+</div>
+</div>
+</div>
+<img src="assets/img/shape/shape__white2.png" alt="" class="contagion__img contagion__img1">
+<img src="assets/img/shape/shape__white2.png" alt="" class="contagion__img contagion__img2">
+<img src="assets/img/shape/shape__white2.png" alt="" class="contagion__img contagion__img3">
+</div>
+
+
+<div class="preventions__area preventions2 padding-top" id="prevention">
+<div class="container">
+<div class="row">
+<div class="col-lg-10 text-center m-auto">
+<div class="title title2 wow fadeInDown">
+<p class="title__top title__top2">Covid-19 Preventions</p>
+<h2>How can you be fearless?</h2>
+<h4>If you are a traveller even in this pandamic <br>follow the CDC’s guidance: </h4>
+</div>
+</div>
+</div>
+<div class="space-50"></div>
+<div class="row">
+<div class="col-md-3 col-lg">
+<div class="prevention__list2 wow fadeInUp" data-wow-delay=".4s">
+<div class="prevention__list2__icon">
+<img src="assets/img/service/service22.png" alt="">
+</div>
+<a href="#">Cover Mouth When Coughing</a>
+</div>
+</div>
+<div class="col-md-3 col-lg">
+<div class="prevention__list2 wow fadeInUp" data-wow-delay=".5s">
+<div class="prevention__list2__icon">
+<img src="assets/img/service/service23.png" alt="">
+</div>
+<a href="#">Wash Your Hand</a>
+</div>
+</div>
+<div class="col-md-3 col-lg">
+<div class="prevention__list2 wow fadeInUp" data-wow-delay=".3s">
+<div class="prevention__list2__icon">
+<img src="assets/img/service/service21.png" alt="">
+</div>
+<a href="#">Wear a Face Mask</a>
+</div>
+</div>
+<div class="col-md-3 col-lg">
+<div class="prevention__list2 wow fadeInUp" data-wow-delay=".7s">
+<div class="prevention__list2__icon">
+<img src="assets/img/service/service25.png" alt="">
+</div>
+<a href="#">Avoid Markets and Crowd</a>
+</div>
+</div>
+<div class="col-md-3 col-lg">
+<div class="prevention__list2 wow fadeInUp" data-wow-delay=".6s">
+<div class="prevention__list2__icon">
+<img src="assets/img/service/service24.png" alt="">
+</div>
+<a href="#">Avoid Animal Contact</a>
+</div>
+</div>
+<div class="col-md-3 col-lg">
+<div class="prevention__list2 wow fadeInUp" data-wow-delay=".8s">
+<div class="prevention__list2__icon">
+<img src="assets/img/service/service26.png" alt="">
+</div>
+<a href="#">Seek Medical Care</a>
+</div>
+</div>
+</div>
+</div>
+<img src="assets/img/shape/shape__white2.png" alt="" class="prevention__img prevention__img1">
+<img src="assets/img/shape/shape__white2.png" alt="" class="prevention__img prevention__img2">
+<img src="assets/img/shape/shape__white2.png" alt="" class="prevention__img prevention__img3">
+</div>
+
+
+<div class="blog__area blog2 section-padding" id="blog">
+<div class="container">
+<div class="row">
+<div class="col-md-5">
+<div class="title title2 wow fadeInLeft">
+<p class="title__top title__top2">News Letter</p>
+<h2>Stay updated with our feed!</h2>
+<h4>We are in this TOGETHER,<br> We will get through this TOGETHER</h4>
+<div class="space-30"></div>
+<a href="#" class="cbtn btn2">Check in our blog</a>
+</div>
+</div>
+<div class="col-md-7 col-lg-6">
+<div class="blog__lists ml-lg-5">
+<div class="single__blog wow fadeInRight" data-wow-delay=".2s">
+<div class="single__blog__img">
+<img src="assets/img/blog/news1.png" alt="">
+</div>
+<p class="title__top title__top2">Statistics</p>
+<a href="#">Indian medical experts provide a clear survey on Coronavirus spread.</a>
+<a href="#" class="readmore readmore2">read more <i class="far fa-angle-right"></i></a>
+</div>
+<div class="single__blog wow fadeInRight" data-wow-delay=".4s">
+<div class="single__blog__img">
+<img src="assets/img/blog/news2.jpg" alt="">
+</div>
+<p class="title__top title__top2">Facts</p>
+<a href="#">Dr.Sumedh gives us an overview on how to deal with the infection.</a>
+<a href="#" class="readmore readmore2">read more <i class="far fa-angle-right"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<img src="assets/img/shape/shape__white2.png" alt="" class="blog__img blog__img1">
+<img src="assets/img/shape/shape__white2.png" alt="" class="blog__img blog__img2">
+</div>
+
 <div class="space-30"></div>
 <a href="#" class="cbtn btn2">Check Symptoms</a>
 </div>
